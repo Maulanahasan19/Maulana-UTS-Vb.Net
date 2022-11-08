@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AplikasiKasir\AplikasiKasir\bin\Debug\AplikasiKasir.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AplikasiKasir\AplikasiKasir\bin\Debug\AplikasiKasir.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AplikasiKasir\AplikasiKasir\bin\Debug\AplikasiKasir.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AplikasiKasir\AplikasiKasir\obj\x86\Debug\AplikasiKasir.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AplikasiKasir\AplikasiKasir\obj\x86\Debug\AplikasiKasir.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AplikasiKasir\AplikasiKasir\obj\x86\Debug\AplikasiKasir.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AplikasiKasir\AplikasiKasir\obj\x86\Debug\AplikasiKasir.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AplikasiKasir\AplikasiKasir\obj\x86\Debug\AplikasiKasir.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\AplikasiKasir\AplikasiKasir\obj\x86\Debug\AplikasiKasir.pdb
